@@ -5,3 +5,18 @@
 #list2{
     padding:10px;
 }
+a:link {
+    color: red;
+  }
+  
+  a:visited {
+    color: green;
+  }
+  
+   a:hover {
+    color: hotpink;
+  }
+  
+   a:active {
+    color: blue;
+}
